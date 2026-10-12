@@ -1,0 +1,18 @@
+Chitkara University, Punjab
+Date: 20 October 2026
+
+Dear <<Name>>,
+
+We are delighted to invite you, as our esteemed <<Designation>>, to <<Event>>.
+
+Date  : <<Date>>
+Time  : <<Time>>
+Venue : <<Venue>>
+
+The event will include project exhibitions, technical talks and competitions. Your presence will make the event more special for all of us.
+
+We look forward to seeing you there.
+
+Warm regards,
+Organizing Committee
+Tech Fest 2026
